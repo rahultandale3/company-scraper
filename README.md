@@ -41,18 +41,30 @@ This project automates the process of identifying companies that hire EJPT-certi
 text
 
 linkedin-ejpt-analyzer/
+
 ├── 📄 linkedin_ejpt_scraper.py      # Main scraper class
-├── 📄 requirements.txt               # Dependencies
-├── 📄 config.py                      # Configuration settings
-├── 📄 .env                          # Environment variables (gitignored)
-├── 📄 run_scraper.py                # Quick start script
-├── 📄 README.md                     # This file
-├── 📁 data/                         # Output directory
-│   ├── 📄 ejpt_companies.csv        # Final dataset
-│   ├── 📄 analysis_report.txt       # Analysis summary
-│   └── 📄 backup_data.json          # Incremental backups
-└── 📁 logs/                         # Log files
-    └── 📄 scraper.log               # Detailed operation logs
+
+├── 📄 requirements.txt               # Dependencie 
+
+├── 📄 config.py                      # Configuration setting 
+
+├── 📄 .env                          # Environment variables (gitignored) 
+
+├── 📄 run_scraper.py                # Quick start script 
+
+├── 📄 README.md                     # This file 
+
+├── 📁 data/                         # Output directory 
+
+│   ├── 📄 ejpt_companies.csv        # Final dataset 
+
+│   ├── 📄 analysis_report.txt       # Analysis summary 
+
+│   └── 📄 backup_data.json          # Incremental backups 
+
+└── 📁 logs/                         # Log files 
+
+    └── 📄 scraper.log               # Detailed operation logs 
 
 🚀 Quick Start
 Prerequisites
@@ -441,7 +453,7 @@ copies or substantial portions of the Software.
 
 For questions, issues, or suggestions:
 
-    📧 Email: [Your Email]
+    📧 Email: rahultandale024@gmail.com
 
     🐛 GitHub Issues
 
